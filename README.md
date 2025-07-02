@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabkara</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **react, java**
+- 🌱 I’m currently learning **react, java, DevOps** 
 
 - 📫 How to reach me **vijaydabkara@gmail.com**
 
