@@ -59,4 +59,15 @@ Docker · Kubernetes (k3s) · Linux · Git · CI/CD · AWS · Azure · Firebase
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubuserconten
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+### ⚡ What I Enjoy
+- Designing clean APIs & scalable systems
+- Automating deployments & infrastructure
+- Learning system design & DevOps best practices
+- Building real-world projects, not just demos 😉
