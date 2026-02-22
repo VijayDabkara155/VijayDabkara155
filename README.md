@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabkara</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud-Native Builder 🚀</h3>
+
+<h3 align="center">
+Full-Stack Developer | DevOps Enthusiast | Cloud-Native Builder 🚀
+</h3>
 
 <p align="center">
-I build scalable web applications and love working across the stack — from clean UIs to solid backend systems and DevOps pipelines.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Native+Builder;React+%7C+Node+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vijaydabkara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -17,57 +24,58 @@ I build scalable web applications and love working across the stack — from cle
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
 <a href="https://twitter.com/@vijaydabkara" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img src="https://img.shields.io/twitter/follow/vijaydabkara?logo=twitter&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/vijay-dabkara-075a1a1b5/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/vijay_dabkara" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/@vijayporwal2208" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/vijayporwal2208" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://img.shields.io/badge/LinkedIn-Vijay%20Dabkara-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-#### Frontend
-React · Next.js · HTML · CSS · JavaScript · React Native
+#### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Backend
-Node.js · Java · Spring Boot · PHP · Laravel · REST APIs · Prisma ORM
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
-#### Databases
-PostgreSQL · MySQL · MongoDB
+#### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-#### DevOps & Cloud
-Docker · Kubernetes (k3s) · Linux · Git · CI/CD · AWS · Azure · Firebase
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+---
+
+### 📊 GitHub Stats (Live Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaydabkara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaydabkara&theme=tokyonight" />
 </p>
 
 ---
 
-### ⚡ What I Enjoy
-- Designing clean APIs & scalable systems
-- Automating deployments & infrastructure
-- Learning system design & DevOps best practices
-- Building real-world projects, not just demos 😉
+### 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydabkara&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+🚀 I believe in building real-world scalable systems, not just tutorials.
