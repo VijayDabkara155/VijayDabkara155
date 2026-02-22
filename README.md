@@ -1,22 +1,32 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabkara</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud-Native Builder 🚀</h3>
+
+<h3 align="center">
+Full-Stack Developer | DevOps Engineer | Cloud-Native & Web3 Builder 🚀
+</h3>
 
 <p align="center">
-I build scalable web applications and love working across the stack — from clean UIs to solid backend systems and DevOps pipelines.
+I build scalable web applications and work across the stack — from clean UIs to solid backend systems, CI/CD pipelines, and cloud infrastructure.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 Full-stack developer with hands-on experience in **Next.js, React, Node.js, Java**
-- ⚙️ Working actively with **Prisma, PostgreSQL, REST APIs**
-- 🚀 Exploring **DevOps & Cloud-Native**: Docker, Kubernetes (k3s), CI/CD, Linux
-- 🌱 Currently sharpening skills in **React, Java (Spring), DevOps & System Design**
+
+- 💻 Full-Stack Developer with hands-on experience in **Next.js, React, Node.js, Java, Spring Boot**
+- 🗄️ Databases: **PostgreSQL, MongoDB, MySQL**
+- ⚙️ Backend APIs & ORM: **REST APIs, Prisma**
+- 🚀 DevOps & Cloud: **Docker, Kubernetes (k3s), Jenkins, GitHub Actions, Linux**
+- 🏗️ Infrastructure as Code: **Terraform, Ansible**
+- 🔐 Practicing **DevSecOps**
+- ⛓️ Web3 Development: **Solidity, Hardhat, Ethereum**
+- 🤖 Learning **Agentic AI, Prompt Engineering, LLM concepts**
+- 📐 Studying **System Design & Cloud Architecture**
 - 📫 Reach me at **vijaydabkara@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
 <a href="https://twitter.com/@vijaydabkara" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -49,25 +59,16 @@ Node.js · Java · Spring Boot · PHP · Laravel · REST APIs · Prisma ORM
 PostgreSQL · MySQL · MongoDB
 
 #### DevOps & Cloud
-Docker · Kubernetes (k3s) · Linux · Git · CI/CD · AWS · Azure · Firebase
+Docker · Kubernetes (k3s) · Linux · Git · CI/CD · Jenkins · Terraform · Ansible · AWS · Azure · Firebase
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
+#### Web3
+Solidity · Hardhat · Ethereum
 
 ---
 
 ### ⚡ What I Enjoy
-- Designing clean APIs & scalable systems
-- Automating deployments & infrastructure
-- Learning system design & DevOps best practices
+
+- Designing clean APIs & scalable systems  
+- Automating deployments & infrastructure  
+- Learning system design & DevOps best practices  
 - Building real-world projects, not just demos 😉
