@@ -1,34 +1,36 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabkara</h1>
 
 <h3 align="center">
-DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD | Observability 🚀
+DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Cloud Infrastructure 🚀
 </h3>
 
 <p align="center">
-I build, automate, deploy, and monitor production-ready infrastructure using cloud-native technologies, Kubernetes, CI/CD, Infrastructure as Code, and observability tools.
+I build, automate, deploy, and monitor cloud-native infrastructure using AWS, Kubernetes, Docker, CI/CD, Infrastructure as Code, automation, and observability tools.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🚀 **DevOps Engineer** with hands-on experience in cloud infrastructure, automation, containerization, CI/CD, and Kubernetes
-* ☁️ Working with **AWS** — EC2, S3, VPC, IAM, EKS, RDS, Route 53
-* 🐳 Building and optimizing applications with **Docker & Docker Compose**
-* ☸️ Working extensively with **Kubernetes** — Deployments, Services, Ingress, StatefulSets, DaemonSets, HPA, Jobs, CronJobs & CRDs
-* 🔄 Building **CI/CD pipelines** using Jenkins, GitHub Actions, Git & Git-flow
-* 🏗️ Managing Infrastructure as Code with **Terraform**
-* ⚙️ Automating server configuration using **Ansible**
+* 🚀 **DevOps Engineer** with hands-on experience in cloud infrastructure, automation, containerization, CI/CD, Kubernetes, and Infrastructure as Code
+* ☁️ Working with **AWS** and learning to provision and manage cloud infrastructure using Terraform and AWS CLI
+* 🏗️ Building infrastructure using **Terraform** with both Docker and AWS providers
+* 🐳 Working with **Docker & Docker Compose** for containerized applications and multi-container environments
+* ☸️ Hands-on with **Kubernetes** including Deployments, Services, Ingress, StatefulSets, DaemonSets, HPA, Jobs, CronJobs and CRDs
+* 🔧 Working with **k3s/k3d** for lightweight Kubernetes clusters and local cloud-native environments
+* 🔄 Building **CI/CD pipelines** using Jenkins, GitHub Actions and Git
+* ⚙️ Automating Linux server configuration using **Ansible**
 * 📦 Using **Kustomize** for environment-specific Kubernetes deployments
-* 📊 Building observability stacks with **Prometheus & Grafana**
+* 📊 Building monitoring solutions using **Prometheus, Grafana and Node Exporter**
 * 📝 Working with **Loki & Promtail** for centralized logging
 * 🔭 Implementing distributed tracing using **OpenTelemetry, Tempo & Grafana**
-* 🐧 Strong hands-on experience with **Linux server administration**
-* 🌐 Working with **NGINX, DNS, VirtualHosts & SSL/TLS**
-* 🔐 Practicing **DevSecOps** with SonarQube and security-focused CI/CD pipelines
+* ☁️ Exploring **AWS serverless architecture** using Lambda and API Gateway
+* 🐧 Strong hands-on experience with **Linux and Ubuntu**
+* 🌐 Working with **NGINX, reverse proxy, DNS and SSL/TLS**
+* 🔐 Learning and practicing **DevSecOps** with SonarQube and security-focused CI/CD pipelines
 * 📨 Working with **Apache Kafka on Kubernetes**
-* 💻 Also experienced with application stacks including **Next.js, Spring Boot, Django, FastAPI & Node.js**
-* 📐 Continuously learning **System Design, Cloud Architecture & DevOps best practices**
+* 💻 Familiar with application technologies including **Node.js, Next.js, React, Java, Spring Boot, Django and FastAPI**
+* 📐 Continuously learning **Cloud Architecture, System Design, Kubernetes and DevOps best practices**
 * 📫 Reach me at **[vijaydabkara@gmail.com](mailto:vijaydabkara@gmail.com)**
 
 ---
@@ -36,80 +38,207 @@ I build, automate, deploy, and monitor production-ready infrastructure using clo
 ### 🏗️ What I Currently Work On
 
 ```text
-Cloud Infrastructure
-        ↓
-AWS + Terraform
-        ↓
-Docker + Kubernetes
-        ↓
-CI/CD Automation
-        ↓
-Jenkins + GitHub + SonarQube
-        ↓
-Application Deployment
-        ↓
-Prometheus + Grafana
-        ↓
-Loki + Promtail
-        ↓
-OpenTelemetry + Tempo
-        ↓
-Monitoring + Logging + Distributed Tracing
+                    AWS Cloud
+                       ↓
+              AWS CLI + IAM
+                       ↓
+                 Terraform
+                       ↓
+          Cloud Infrastructure
+                       ↓
+          Docker + Kubernetes
+                       ↓
+       k3d / k3s + Kustomize
+                       ↓
+                CI/CD Pipelines
+                       ↓
+       Jenkins + GitHub Actions
+                       ↓
+             Application Deployments
+                       ↓
+       Prometheus + Grafana
+                       ↓
+         Loki + Promtail
+                       ↓
+       OpenTelemetry + Tempo
+                       ↓
+       Monitoring + Logging + Tracing
 ```
 
 ---
 
-### 🛠️ Languages & Tools
+### ☁️ AWS & Cloud
 
-#### ☁️ Cloud
+AWS · AWS CLI · IAM · EC2 · S3 · VPC · Lambda · API Gateway · CloudWatch · Route 53 · EKS · RDS
 
-AWS · EC2 · S3 · VPC · IAM · EKS · RDS · Route 53
+Currently focusing on:
 
-#### 🐳 Containers & Kubernetes
+* AWS infrastructure provisioning with Terraform
+* IAM and AWS CLI
+* EC2 infrastructure
+* AWS Lambda
+* API Gateway
+* Understanding AWS networking and cloud architecture
+* Monitoring AWS resources and controlling cloud costs
 
-Docker · Docker Compose · Kubernetes · k3s · k3d · Helm · Kustomize
+---
 
-#### 🔄 CI/CD & DevSecOps
+### 🐳 Containers & Kubernetes
+
+Docker · Docker Compose · Kubernetes · k3s · k3d · Kustomize · Helm
+
+Hands-on Kubernetes experience with:
+
+* Deployments
+* ReplicaSets
+* Services
+* Ingress
+* StatefulSets
+* DaemonSets
+* Horizontal Pod Autoscaler
+* Jobs
+* CronJobs
+* ConfigMaps & Secrets
+* Custom Resource Definitions
+* Namespaces
+* Resource requests & limits
+* Kubernetes troubleshooting
+* Local Kubernetes clusters using k3d
+
+---
+
+### 🔄 CI/CD & DevSecOps
 
 Jenkins · GitHub Actions · Git · Git-flow · SonarQube
 
-#### 🏗️ Infrastructure as Code & Automation
+Working on:
 
-Terraform · Ansible · Bash · Cron
+* Multi-stage CI/CD pipelines
+* Docker image builds
+* Application deployment automation
+* Kubernetes deployments
+* Code quality checks
+* DevSecOps practices
 
-#### 📊 Observability
+---
 
-Prometheus · Grafana · Loki · Promtail · OpenTelemetry · Tempo · Node Exporter
+### 🏗️ Infrastructure as Code & Automation
 
-#### 🐧 Linux & Web Infrastructure
+Terraform · Ansible · Bash · Linux · AWS CLI
 
-Linux · Ubuntu · Debian · Systemd · SSH · NGINX · Reverse Proxy · Load Balancing · DNS · SSL/TLS · Certbot
+Hands-on work includes:
 
-#### 🗄️ Databases & Messaging
+* Terraform Docker provider
+* Terraform AWS provider
+* AWS EC2 provisioning
+* Terraform state management
+* Ansible inventories
+* Linux server automation
+* SSH-based configuration management
+* Infrastructure automation
+
+---
+
+### 📊 Observability
+
+Prometheus · Grafana · Node Exporter · Loki · Promtail · OpenTelemetry · Tempo
+
+Current observability work includes:
+
+* Infrastructure monitoring
+* Kubernetes monitoring
+* Grafana dashboards
+* Centralized logging
+* Log aggregation with Loki
+* Promtail log collection
+* Distributed tracing
+* OpenTelemetry instrumentation
+* Tempo trace storage
+* Grafana-based trace visualization
+
+---
+
+### 🐧 Linux & Infrastructure
+
+Linux · Ubuntu · Debian · WSL · Systemd · SSH · NGINX · Reverse Proxy · DNS · SSL/TLS · Certbot
+
+Comfortable with:
+
+* Linux administration
+* User management
+* File permissions
+* Processes and services
+* Networking
+* SSH
+* Package management
+* Shell commands
+* Troubleshooting
+* Server configuration
+
+---
+
+### 🗄️ Databases & Messaging
 
 PostgreSQL · MySQL · MongoDB · Apache Kafka
 
-#### 💻 Application Technologies
+Hands-on exposure includes:
 
-Next.js · React · Node.js · Java · Spring Boot · Django · FastAPI · Angular · Vue.js · ASP.NET · Ruby on Rails · Strapi
-
----
-
-### 🚀 DevOps Projects
-
-* ☸️ **Kubernetes Deployments** — Production-style workloads using Deployments, Services, Ingress, StatefulSets, DaemonSets, HPA, Jobs and CRDs
-* 🔭 **Distributed Tracing Stack** — Node.js + OpenTelemetry + Tempo + Grafana
-* 📊 **Monitoring Stack** — Prometheus + Grafana + Node Exporter
-* 📝 **Centralized Logging** — Loki + Promtail + Grafana
-* 🔄 **Jenkins CI/CD** — Multi-stage pipelines with Docker and SonarQube
-* 🏗️ **Terraform AWS Infrastructure** — Reproducible cloud infrastructure using Infrastructure as Code
-* ⚙️ **Ansible Automation** — Automated Linux server provisioning and configuration
-* 📨 **Kafka on Kubernetes** — Stateful Apache Kafka deployment
-* 🚀 **Progressive Delivery** — Rolling, Blue/Green and Canary deployments
+* PostgreSQL with Docker Compose
+* Multi-container application environments
+* Database configuration
+* Kafka deployments on Kubernetes
+* Stateful workloads in Kubernetes
 
 ---
 
-### 📈 My DevOps Journey
+### 💻 Application Technologies
+
+Node.js · Next.js · React · Java · Spring Boot · Django · FastAPI
+
+Understanding application development helps me work effectively across the complete deployment lifecycle:
+
+```text
+Application Code
+      ↓
+Git
+      ↓
+Docker
+      ↓
+CI/CD
+      ↓
+Infrastructure
+      ↓
+Kubernetes / AWS
+      ↓
+Monitoring
+      ↓
+Logging
+      ↓
+Tracing
+```
+
+---
+
+### 🚀 Recent DevOps Projects & Hands-on Work
+
+* ☁️ **AWS Infrastructure with Terraform** — Provisioned AWS EC2 infrastructure using Terraform and AWS provider
+* 🔐 **AWS IAM & CLI** — Configured AWS CLI and IAM credentials for infrastructure automation
+* ⚡ **AWS Lambda** — Created and tested a serverless Lambda function
+* 🌐 **AWS API Gateway** — Connected a Lambda function with an API endpoint and tested it through a browser
+* ☸️ **Kubernetes Deployments** — Worked with Deployments, Services, Ingress, StatefulSets, DaemonSets, HPA, Jobs, CronJobs and CRDs
+* 🔭 **Distributed Tracing** — Built a Node.js + OpenTelemetry + Tempo + Grafana tracing environment
+* 📊 **Monitoring Stack** — Worked with Prometheus, Grafana and Node Exporter
+* 📝 **Centralized Logging** — Implemented Loki + Promtail + Grafana
+* 🔄 **Jenkins CI/CD** — Built multi-stage CI/CD workflows with Docker and SonarQube
+* 🏗️ **Terraform Automation** — Used Terraform for Docker and AWS infrastructure provisioning
+* ⚙️ **Ansible Automation** — Configured Linux environments using Ansible and SSH
+* 📨 **Kafka on Kubernetes** — Worked with stateful Apache Kafka workloads
+* 🐳 **Docker Compose Infrastructure** — Built multi-container environments including Jira, Confluence and PostgreSQL
+* 📦 **Kustomize Deployments** — Used overlays for environment-specific Kubernetes configuration
+
+---
+
+### 📅 My DevOps Learning Journey
 
 ```text
 Linux
@@ -122,35 +251,71 @@ CI/CD
   ↓
 AWS
   ↓
-Terraform + Ansible
+AWS CLI + IAM
+  ↓
+Terraform
+  ↓
+Ansible
   ↓
 Kubernetes
+  ↓
+Kustomize
   ↓
 Monitoring & Logging
   ↓
 OpenTelemetry + Distributed Tracing
+  ↓
+AWS Serverless
   ↓
 Cloud-Native & Production Engineering
 ```
 
 ---
 
+### 📈 DevOps Day Challenge
+
+I am continuously building and documenting hands-on DevOps projects.
+
+Recent learning includes:
+
+**Day 123** → Ansible automation
+**Day 124** → Terraform with Docker
+**Day 125** → AWS + Terraform + EC2
+**Day 126** → AWS CLI + IAM
+**Day 127** → AWS Lambda + API Gateway
+
+🚀 The goal is simple:
+
+> Learn → Build → Troubleshoot → Automate → Document
+
+---
+
 ### ⚡ What I Enjoy
 
 * Automating repetitive infrastructure tasks
-* Designing reliable cloud infrastructure
-* Building production-ready CI/CD pipelines
-* Troubleshooting Linux, Docker & Kubernetes issues
-* Improving deployment reliability
-* Implementing monitoring, logging & tracing
+* Building cloud infrastructure
+* Working with Kubernetes
+* Creating CI/CD pipelines
+* Troubleshooting Linux, Docker and Kubernetes
+* Automating infrastructure with Terraform
+* Automating servers with Ansible
+* Building monitoring and observability solutions
+* Exploring AWS cloud services
 * Learning cloud-native architecture
 * Building real-world DevOps projects
+
+---
+
+### 🎯 Currently Learning
+
+**Advanced Kubernetes · AWS · Terraform · Ansible · DevSecOps · System Design · Cloud Architecture · Observability · Distributed Systems · Serverless Architecture**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://twitter.com/@vijaydabkara" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
@@ -170,13 +335,8 @@ Cloud-Native & Production Engineering
 <a href="https://www.leetcode.com/vijayporwal2208" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
+
 </p>
-
----
-
-### 🎯 Currently Learning
-
-**Advanced Kubernetes · AWS · Terraform · DevSecOps · System Design · Cloud Architecture · Observability · Distributed Systems**
 
 ---
 
