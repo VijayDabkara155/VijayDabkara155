@@ -9,7 +9,7 @@
 📍 Neemuch, Madhya Pradesh, India · 🌍 Open to relocate across India · ⏳ 30-day notice period
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydabka@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydabkara@gmail.com)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20%7C%20SRE%20%7C%20Platform-2ea44f?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=VijayDabkara155&label=Profile%20Views&color=2c5364&style=flat-square)
@@ -133,7 +133,7 @@ I'm a **DevOps Engineer** with **2+ years of experience** at **Oklabs IT Solutio
 
 I'm actively looking for **DevOps, DevSecOps, Cloud, SRE and Platform Engineer** roles across India (30-day notice period).
 
-📧 [vijaydabka@gmail.com](mailto:vijaydabka@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
+📧 [vijaydabkara@gmail.com](mailto:vijaydabkara@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
 
 <div align="center">
 
