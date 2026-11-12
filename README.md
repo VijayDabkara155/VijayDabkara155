@@ -2,12 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vijay%20Dabkara&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vijay%20Dabkara&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20DevSecOps&descSize=18&descAlignY=58" alt="Vijay Dabkara - DevOps Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+build+and+run+cloud+infrastructure+on+AWS;I+automate+delivery+with+CI%2FCD+pipelines;I+ship+containers+on+Kubernetes+(EKS);I+track+everything+with+Prometheus+%26+Grafana)](https://git.io/typing-svg)
+**DevOps Engineer · AWS · Kubernetes (EKS) · Terraform · CI/CD · Observability**
 
+📍 Neemuch, Madhya Pradesh, India · 🌍 Open to relocate across India · ⏳ 30-day notice period
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydabka@gmail.com)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20%7C%20SRE%20%7C%20Platform-2ea44f?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=VijayDabkara155&label=Profile%20Views&color=2c5364&style=flat-square)
-![Followers](https://img.shields.io/github/followers/VijayDabkara155?style=flat-square&color=2c5364)
 
 </div>
 
@@ -15,15 +20,17 @@
 
 ## 👋 About Me
 
-I'm a **DevOps Engineer** based in **Neemuch, Madhya Pradesh**, with 2+ years of experience building AWS infrastructure, Kubernetes workloads and CI/CD pipelines at **Oklabs IT Solutions**.
+I'm a **DevOps Engineer** with **2+ years of experience** at **Oklabs IT Solutions**, building AWS infrastructure, Kubernetes workloads and CI/CD pipelines. I started as a full-stack developer (Node.js, React, PHP/Laravel, SQL/NoSQL), so I understand the applications I ship, not just the pipelines around them.
 
-- ☁️ I provision cloud environments with **Terraform** and **CloudFormation**
-- 🔄 I automate build, test, scan and deploy workflows with **Jenkins** and **GitHub Actions**
-- ☸️ I run containerised apps on **Kubernetes (EKS)**
-- 📊 I set up monitoring and logging with **Prometheus, Grafana, Loki and the ELK Stack**
-- 🛠️ I enjoy debugging real production problems: 502 errors, CNI issues, networking and IAM misconfigurations
-- 🎓 MCA (Information Technology), Bhopal | BCA (Computer Software Engineering), Vikram University
-- 🌍 **Open to DevOps / DevSecOps roles** and happy to relocate anywhere in India
+- ☁️ Provision cloud environments with **Terraform** and **CloudFormation** (VPC, EKS, EC2, RDS, S3, IAM)
+- 🔄 Automate build, test, scan and deploy workflows with **Jenkins** and **GitHub Actions**, including **SonarQube** code-quality scans
+- ☸️ Run containerised apps on **Kubernetes (EKS)** with Ingress and HPA, and deploy Dockerised Django and Flask apps on **AWS EC2**
+- 📊 Build monitoring, logging and tracing with **Prometheus, Grafana, Loki, Tempo, OpenTelemetry and ELK**
+- 🔔 Configure alerting to **Slack and email** with Prometheus Alertmanager
+- 🛠️ Debug real production problems: 502 errors, CNI issues, networking and IAM misconfigurations
+- 🎓 MCA (Information Technology), Bhopal · BCA (Computer Software Engineering), Vikram University
+
+**Looking for:** DevOps Engineer · DevSecOps Engineer · Cloud Engineer · Site Reliability Engineer · Platform Engineer roles, anywhere in India.
 
 ---
 
@@ -59,10 +66,12 @@ I'm a **DevOps Engineer** based in **Neemuch, Madhya Pradesh**, with 2+ years of
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Monitoring & Logging**
+**Monitoring, Logging & Tracing**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
@@ -77,18 +86,22 @@ I'm a **DevOps Engineer** based in **Neemuch, Madhya Pradesh**, with 2+ years of
 
 </div>
 
+**Development background:** Node.js, Express, React, PHP/Laravel, Django, Flask, Prisma, HTML/CSS/JavaScript
+
 ---
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**AWS EKS with Terraform**](https://github.com/VijayDabkara155/REPO-NAME) | Custom VPC with public/private subnets, NAT Gateways, EKS cluster, managed node groups and IAM roles, plus CNI troubleshooting | `Terraform` `AWS` `EKS` |
-| [**Observability & Centralised Logging**](https://github.com/VijayDabkara155/REPO-NAME) | Metrics and log pipelines with custom dashboards and alert rules for root-cause analysis | `Prometheus` `Grafana` `Loki` `ELK` |
-| [**Kafka → PostgreSQL ETL Pipeline**](https://github.com/VijayDabkara155/REPO-NAME) | Streams and transforms real-time JSON data through a containerised microservices pipeline | `Kafka` `Python` `Docker Compose` `PostgreSQL` |
-| [**AWS DMS → RDS Migration**](https://github.com/VijayDabkara155/REPO-NAME) | Database migration with replication instances, endpoints and tasks, plus post-migration integrity checks | `AWS DMS` `RDS` `VPC` |
-| [**Flask App on Elastic Beanstalk**](https://github.com/VijayDabkara155/REPO-NAME) | Deployed a Flask app and fixed 502 errors caused by Gunicorn and NGINX misconfiguration | `Elastic Beanstalk` `NGINX` `Gunicorn` |
-| [**CloudFormation Automation**](https://github.com/VijayDabkara155/REPO-NAME) | Parameter-driven templates for multi-tier EC2, EBS and S3 stacks with change-set deployments | `CloudFormation` `AWS CLI` |
+| [**AWS EKS with Terraform**](https://github.com/VijayDabkara155/aws-eks-terraform-poc) | Custom VPC with public/private subnets, NAT Gateways, EKS cluster, managed node groups and IAM roles, plus CNI troubleshooting | `Terraform` `AWS` `EKS` |
+| [**Kubernetes Observability Stack**](https://github.com/VijayDabkara155/kubernetes-observability-stack-Day111-31may2026) | Full metrics, logs and traces stack on Kubernetes with custom dashboards for root-cause analysis | `Prometheus` `Grafana` `Loki` `Tempo` `k3d` |
+| [**Distributed Tracing on Kubernetes**](https://github.com/VijayDabkara155/Distributed-Tracing-using-Kubernetes-OpenTelemetry-Tempo-Grafana-Kustomize-Day-116---Date-12july2026) | End-to-end request tracing across services, deployed with Kustomize overlays | `OpenTelemetry` `Tempo` `Grafana` `Kustomize` |
+| [**Alertmanager: Email & Slack Alerting**](https://github.com/VijayDabkara155/alertMSGtoEmail-Day112-6june2026) | Prometheus alert rules routed to email and Slack notification channels | `Prometheus` `Alertmanager` `Slack` |
+| [**Kafka ETL/ELT Pipeline**](https://github.com/VijayDabkara155/kafka-etl-elt-pipeline) | Streams and transforms real-time JSON data through a containerised microservices pipeline | `Kafka` `Python` `Docker Compose` `PostgreSQL` |
+| **AWS DMS → RDS Migration** | Database migration with replication instances, endpoints and tasks, plus post-migration integrity checks | `AWS DMS` `RDS` `VPC` |
+| **Flask App on Elastic Beanstalk** | Deployed a Flask app and fixed 502 errors caused by Gunicorn and NGINX misconfiguration | `Elastic Beanstalk` `NGINX` `Gunicorn` |
+| **CloudFormation Automation** | Parameter-driven templates for multi-tier EC2, EBS and S3 stacks with change-set deployments | `CloudFormation` `AWS CLI` |
 | [**Dummy SQL Data Generator**](https://github.com/VijayDabkara155/togeneratedummysqldatafile) | Bash script that generates large SQL files for database load testing | `Bash` `MySQL` |
 
 ---
@@ -100,7 +113,7 @@ I'm a **DevOps Engineer** based in **Neemuch, Madhya Pradesh**, with 2+ years of
 - Provision and manage AWS infrastructure with Terraform and CloudFormation
 - Build and maintain CI/CD pipelines in Jenkins and GitHub Actions
 - Deploy and scale workloads on Kubernetes (EKS) with Ingress and HPA
-- Implement monitoring and logging with Prometheus, Grafana, Loki and ELK
+- Implement monitoring, logging and tracing with Prometheus, Grafana, Loki, Tempo and ELK
 - Resolve production incidents across Kubernetes, Docker, AWS and Linux
 
 ---
@@ -112,21 +125,17 @@ I'm a **DevOps Engineer** based in **Neemuch, Madhya Pradesh**, with 2+ years of
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=VijayDabkara155&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayDabkara155&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayDabkara155&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
+I'm actively looking for **DevOps, DevSecOps, Cloud, SRE and Platform Engineer** roles across India (30-day notice period).
+
+📧 [vijaydabka@gmail.com](mailto:vijaydabka@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
+
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-dabkara-075a1a1b5)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydabka@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayDabkara155)
-
-*Open to DevOps and DevSecOps opportunities across India.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 
